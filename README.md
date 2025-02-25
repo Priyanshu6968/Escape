@@ -67,4 +67,7 @@ public class playercode : MonoBehaviour
     }
 }
 and honestly complete was not written by me i took help from chatgpt, 
-and the map was made by me. :)
+and the map was made by me.
+
+Further i wanted to make the ghosts trigger as the character picks up the skull and then the character has to return back to the starting point to escape and as i will develop skills further in the Aries club i would add some weapons and instantiate multiple creatures and make the project more fun.
+Thanks !
